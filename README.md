@@ -1,5 +1,9 @@
 ## Hi there 👋
 Link do strony: https://kacper-roth.github.io
+
+fork: https://github.com/ardigen/MAT
+
+artykul: https://paperswithcode.com/paper/molecule-attention-transformer
 <!--
 **Kacper-Roth/Kacper-Roth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
